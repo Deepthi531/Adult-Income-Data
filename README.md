@@ -1,7 +1,11 @@
 # Adult-Income-Data
+Objective:
+
+The main objective of the dataset is to classify people earning <=50k or >50k based on several explanatory factors affecting the income of a person like Age, Occupation, Education, etc.
+
 A person's annual income depends on many factors. Visually, it is influenced by the person's education level, age, gender, occupation, etc. 
 
-This is a frequently cited KNN dataset. I encountered this during my course. This is a good entry-level example of data preprocessing and machine learning, so I'd like to share it here.
+This is a frequently cited Logistic Regression dataset. I encountered this during my course. This is a good entry-level example of data preprocessing and machine learning, so I'd like to share it here.
 
 The dataset contains 15 columns : They are
 
